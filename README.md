@@ -1,1 +1,1 @@
-# digital-namecard
+# tosina-namecard
